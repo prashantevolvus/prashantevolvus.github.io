@@ -8,6 +8,7 @@ This website contains all documentation needed for Paycorp
 
 * [Website](https://paycorp.io)
 * [API Documentation](https://api.paycorp.io)
+* [Sandbox](https://app.paycorp.io/login)
 
 ## Acnowledgement
 
