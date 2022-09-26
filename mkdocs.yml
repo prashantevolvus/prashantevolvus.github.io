@@ -19,9 +19,16 @@ extra:
       name: Paycorp on Linkedin
 nav:
     - Home: 'index.md'
+    - 'Setup':
+      - 'Getting Started': 'start-setup.md'
+      - 'Bank Setup': 'bank-setup.md'
+      - 'Corporate Setup': 'corp-setup.md'
     - 'User Guide':
         - 'Mandate Management': 'mandate.md'
         - 'Payments': 'payments.md'
+        - 'Administration':
+          - 'User Maintenance': 'user.md'
+          - 'Role Maintenance': 'role.md'
     - About:
         - 'License': 'license.md'
         - 'Release Notes': 'release-notes.md'
