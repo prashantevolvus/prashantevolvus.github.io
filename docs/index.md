@@ -6,7 +6,7 @@ This website contains all documentation needed for Paycorp
 
 ## Links 
 
-* [Website] (https://paycorp.io)
+* [Website](https://paycorp.io)
 * [API Documentation](https://api.paycorp.io)
 
 ## Acnowledgement
