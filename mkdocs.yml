@@ -6,8 +6,8 @@ theme:
 nav:
     - Home: 'index.md'
     - 'User Guide':
-        - 'Creating and Maintaining Mandates': 'mandate.md'
-        - 'Setting up Payments': 'payments.md'
+        - 'Mandate Management': 'mandate.md'
+        - 'Payments': 'payments.md'
     - About:
         - 'License': 'license.md'
         - 'Release Notes': 'release-notes.md'
