@@ -4,7 +4,7 @@ theme:
 nav:
     - Home: 'index.md'
     - 'User Guide':
-        - 'Creatinh and Maintaining Mandates': 'mandate.md'
+        - 'Creating and Maintaining Mandates': 'mandate.md'
         - 'Setting up Payments': 'payments.md'
     - About:
         - 'License': 'license.md'
