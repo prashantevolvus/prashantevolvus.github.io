@@ -9,6 +9,14 @@ theme:
     - navigation.instant
     - navigation.tracking
     - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.top
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/paycorp-io/
+      name: Paycorp on Linkedin
 nav:
     - Home: 'index.md'
     - 'User Guide':
