@@ -1,6 +1,7 @@
 site_name: Paycorp Functional Documentation
 theme:
   name: material
+  logo: assets/logo.png
 nav:
     - Home: 'index.md'
     - 'User Guide':
