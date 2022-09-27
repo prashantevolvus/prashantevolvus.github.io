@@ -10,7 +10,6 @@ repo_url: https://github.com/prashantevolvus/prashantevolvus.github.io
 
 # Copyright
 copyright: Copyright &copy; 2022 - 2024 paycorp
-language: en
 
 theme:
   name: material
