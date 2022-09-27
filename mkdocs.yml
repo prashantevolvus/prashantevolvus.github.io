@@ -1,4 +1,17 @@
 site_name: Paycorp Documentation
+site_url: https://prashantevolvus.github.io
+site_author: Prashant Maroli
+site_description: >-
+  Paycorp documentation website for all Paycorp customer.
+
+# Repository
+repo_name: prashantevolvus/prashantevolvus.github.io
+repo_url: https://github.com/prashantevolvus/prashantevolvus.github.io
+
+# Copyright
+copyright: Copyright &copy; 2022 - 2024 paycorp
+language: en
+
 theme:
   name: material
   logo: assets/logo.png
@@ -17,6 +30,9 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/paycorp-io/
       name: Paycorp on Linkedin
+    - icon: fontawesome/brands/github
+      link: https://github.com/paycorp-io
+      name: Paycorp on Github
 nav:
     - Home: 'index.md'
     - 'Setup':
@@ -48,3 +64,7 @@ markdown_extensions:
   - pymdownx.tilde
   - attr_list
   - md_in_html
+
+plugins:
+   - minify:
+      minify_html: true
